@@ -19,11 +19,11 @@ Usage:
 
 ```bash
 $ # normal use
-$ ./json2yaml -i test.json -o test.yaml
+$ ./json2yaml -input test.json -output test.yaml
 $
 $ # read from stdin
-$ cat test.json | ./json2yaml -o test.yaml 
+$ cat test.json | ./json2yaml -output test.yaml 
 $
 $ # out to stdin
-$ ./json2yaml -i test.json  > test.yaml
+$ ./json2yaml -input test.json  > test.yaml
 ```
