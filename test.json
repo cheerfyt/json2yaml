@@ -1,0 +1,16 @@
+{
+    "hello": "world",
+    "array": [
+        "value1",
+        "value2",
+        "value3"
+    ],
+    "object": {
+        "nested": {
+            "metadata": {
+                "name": "json2yaml"
+            }
+        }
+    },
+    "null": null
+}
